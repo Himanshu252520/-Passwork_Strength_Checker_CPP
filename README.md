@@ -1,4 +1,4 @@
-# -Passwork_Strength_Checker_CPP
+# -Password_Strength_Checker_CPP
 
 In this I use C++ you can check weather your password is weak or not. It is work on algorithm by checking how many words are in your password then it give a status of your password.
 
